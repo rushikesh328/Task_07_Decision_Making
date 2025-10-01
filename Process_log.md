@@ -76,5 +76,5 @@ This file documents the chronological steps taken to produce the stakeholder-fac
 - `stakeholder_report.md` — polished report.
 - `logs/prompt_log.md` — full LLM transcript & edits.
 - `code/analysis.py` — reproducible stats + bootstrap CI functions.
-- `report/figs/` — supporting visuals.
+
 
