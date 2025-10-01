@@ -41,7 +41,7 @@ Directly used in analysis with slight edits for column naming consistency.
 - Robustness checks by removing top performers.  
 
 **Used/Modified:**  
-Implemented bootstrap function in `analysis.py` and reported CIs.
+Implemented bootstrap function in `Analysis.ipynb` and reported CIs.
 
 ---
 
@@ -72,3 +72,4 @@ Used representation check; acknowledged limited subgroup data available.
 ---
 
 **Note:** All prompts/responses saved here for audit trail. Any edits were annotated in process log and in stakeholder report appendices.
+
