@@ -75,6 +75,7 @@ This file documents the chronological steps taken to produce the stakeholder-fac
 ## 10. Final Deliverables
 - `stakeholder_report.md` — polished report.
 - `logs/prompt_log.md` — full LLM transcript & edits.
-- `code/analysis.py` — reproducible stats + bootstrap CI functions.
+- `code/Analysis.ipynb` — reproducible stats + bootstrap CI functions.
+
 
 
